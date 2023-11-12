@@ -1,0 +1,99 @@
+{
+    "name": "Root",
+    "children": [
+        {
+            "name": "North LA",
+            "children": [
+                {
+                    "name": "N Hollywood",
+                    "value": "38980"
+                },
+                {
+                    "name": "Foothill",
+                    "value": "26415"
+                },
+                {
+                    "name": "Mission",
+                    "value": "31218"
+                },
+                {
+                    "name": "Devonshire",
+                    "value": "31769"
+                },
+                {
+                    "name": "Topanga",
+                    "value": "31821"
+                },
+                {
+                    "name": "West Valley",
+                    "value": "32809"
+                },
+                {
+                    "name": "Van Nuys",
+                    "value": "33318"
+                }
+            ]
+        },
+        {
+            "name": "South LA",
+            "children": [
+                {
+                    "name": "Southwest",
+                    "value": "43836"
+                },
+                {
+                    "name": "Central",
+                    "value": "52662"
+                },
+                {
+                    "name": "Northeast",
+                    "value": "33881"
+                },
+                {
+                    "name": "Harbor",
+                    "value": "32502"
+                },
+                {
+                    "name": "West LA",
+                    "value": "35996"
+                },
+                {
+                    "name": "Wilshire",
+                    "value": "37161"
+                },
+                {
+                    "name": "Pacific",
+                    "value": "45857"
+                },
+                {
+                    "name": "Rampart",
+                    "value": "36282"
+                },
+                {
+                    "name": "77th Street",
+                    "value": "49641"
+                },
+                {
+                    "name": "Hollenbeck",
+                    "value": "29424"
+                },
+                {
+                    "name": "Southeast",
+                    "value": "40132"
+                },
+                {
+                    "name": "Hollywood",
+                    "value": "41661"
+                },
+                {
+                    "name": "Newton",
+                    "value": "39133"
+                },
+                {
+                    "name": "Olympic",
+                    "value": "39708"
+                }
+            ]
+        }
+    ]
+}

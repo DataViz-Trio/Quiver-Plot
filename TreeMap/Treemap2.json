@@ -1,0 +1,201 @@
+{
+    "name": "Root",
+    "children": [
+        {
+            "name": "2020",
+            "children": [
+                {
+                    "name": "January",
+                    "value": "18475"
+                },
+                {
+                    "name": "February",
+                    "value": "17251"
+                },
+                {
+                    "name": "March",
+                    "value": "16154"
+                },
+                {
+                    "name": "April",
+                    "value": "15676"
+                },
+                {
+                    "name": "May",
+                    "value": "17197"
+                },
+                {
+                    "name": "June",
+                    "value": "17021"
+                },
+                {
+                    "name": "July",
+                    "value": "17108"
+                },
+                {
+                    "name": "August",
+                    "value": "16863"
+                },
+                {
+                    "name": "September",
+                    "value": "15623"
+                },
+                {
+                    "name": "October",
+                    "value": "16478"
+                },
+                {
+                    "name": "November",
+                    "value": "15565"
+                },
+                {
+                    "name": "December",
+                    "value": "15935"
+                }
+            ]
+        },
+        {
+            "name": "2021",
+            "children": [
+                {
+                    "name": "January",
+                    "value": "16520"
+                },
+                {
+                    "name": "February",
+                    "value": "15398"
+                },
+                {
+                    "name": "March",
+                    "value": "16308"
+                },
+                {
+                    "name": "April",
+                    "value": "16045"
+                },
+                {
+                    "name": "May",
+                    "value": "16979"
+                },
+                {
+                    "name": "June",
+                    "value": "17140"
+                },
+                {
+                    "name": "July",
+                    "value": "18650"
+                },
+                {
+                    "name": "August",
+                    "value": "18360"
+                },
+                {
+                    "name": "September",
+                    "value": "18340"
+                },
+                {
+                    "name": "October",
+                    "value": "19281"
+                },
+                {
+                    "name": "November",
+                    "value": "18324"
+                },
+                {
+                    "name": "December",
+                    "value": "17907"
+                }
+            ]
+        },
+        {
+            "name": "2022",
+            "children": [
+                {
+                    "name": "January",
+                    "value": "18418"
+                },
+                {
+                    "name": "February",
+                    "value": "17678"
+                },
+                {
+                    "name": "March",
+                    "value": "19678"
+                },
+                {
+                    "name": "April",
+                    "value": "19765"
+                },
+                {
+                    "name": "May",
+                    "value": "20388"
+                },
+                {
+                    "name": "June",
+                    "value": "20171"
+                },
+                {
+                    "name": "July",
+                    "value": "19916"
+                },
+                {
+                    "name": "August",
+                    "value": "20039"
+                },
+                {
+                    "name": "September",
+                    "value": "19217"
+                },
+                {
+                    "name": "October",
+                    "value": "20205"
+                },
+                {
+                    "name": "November",
+                    "value": "18626"
+                },
+                {
+                    "name": "December",
+                    "value": "19843"
+                }
+            ]
+        },
+        {
+            "name": "2023",
+            "children": [
+                {
+                    "name": "January",
+                    "value": "19507"
+                },
+                {
+                    "name": "February",
+                    "value": "18206"
+                },
+                {
+                    "name": "March",
+                    "value": "18909"
+                },
+                {
+                    "name": "April",
+                    "value": "18605"
+                },
+                {
+                    "name": "May",
+                    "value": "18502"
+                },
+                {
+                    "name": "June",
+                    "value": "18149"
+                },
+                {
+                    "name": "July",
+                    "value": "18833"
+                },
+                {
+                    "name": "August",
+                    "value": "10953"
+                }
+            ]
+        }
+    ]
+}

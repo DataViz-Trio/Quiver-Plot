@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>A2 Treemap</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <style>
+        .cell-text {
+            font-size: 10px; /* Adjust font size here */
+        }
+    </style>
+</head>
+<body>
+    <div style="padding: 8px; font-weight: 700; font-size: large;">
+        Treemap on Area Wise Crimes in Los Angeles: &nbsp;&nbsp;
+        <label for="tiles">Choose a Spatial Partioning Method:</label>
+        <select id="tiles">
+            <option value="d3.treemapSquarify">Squarify</option>
+            <option value="d3.treemapSliceDice">SliceDice</option>
+            <option value="d3.treemapDice">Snake</option>
+            <option value="d3.treemapBinary">Binary</option>
+        </select>
+    </div>
+    <div id="treemap"></div>
+
+    <div >
+        North LA - Blue
+        <br>
+        South LA - Orange
+    </div>
+    
+    <div style="padding: 8px; font-weight: 700; font-size: large;margin-top:10px ; margin-bottom: 10px;">
+        Treemap on Date wise crimes in Los Angeles &nbsp;&nbsp;
+        <label for="tiles1">Choose a Spatial Partioning Method:</label>
+        <select id="tiles1">
+            <option value="d3.treemapSquarify">Squarify</option>
+            <option value="d3.treemapSliceDice">SliceDice</option>
+            <option value="d3.treemapDice">Snake</option>
+            <option value="d3.treemapBinary">Binary</option>
+        </select>
+    </div>
+
+    <div id="treemap1"></div>
+
+    <div style="padding-left: 10px;">
+        2020 - Blue
+        <br>
+        2021 - Orange
+        <br>
+        2022 - Red
+        <br> 
+        2023 - Teal
+    </div>
+
+    <div style="padding: 8px; font-weight: 700; font-size: large;margin-top:10px ; margin-bottom: 10px;">
+        Treemap on Type of Crimes in Los Angeles  &nbsp;&nbsp;
+        <label for="tiles2">Choose a Spatial Partioning Method:</label>
+        <select id="tiles2">
+            <option value="d3.treemapSquarify">Squarify</option>
+            <option value="d3.treemapSliceDice">SliceDice</option>
+            <option value="d3.treemapDice">Snake</option>
+            <option value="d3.treemapBinary">Binary</option>
+        </select>
+    </div>
+
+    <div id="treemap2"></div>
+
+    <div style="padding-left: 10px;">
+        Light Blue - OTHERS, Orange - VEHICLE STOLEN, Red - ROBBERY, Teal - TRESPASSING, Green - THEFT, Yellow - BURGLARY, Purple - VANDALISM, Pink - BATTERY, Brown - SEX CRIMES, Gray - ASSAULT , Blue - SHOPLIFTING 
+    </div>
+    <script type="module" src="treemap.js">        
+    </script>
+
+</body>
+</html>
