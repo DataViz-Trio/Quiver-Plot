@@ -5,12 +5,12 @@ This github repo has the code for thequiver plot implementation for Assignment 2
 ## Results 
 
 - `Quiver Plot`: Contains the screenshots and the gifs generated for the different quiver plots.
-  - [Feb-06-2012.png](Images/Visualization1/Feb-06-2012.png) : Magnitude proportion quiver plot on Feb 6th 2012
-  - [Feb-12-2012.png](Images/Visualization1/Feb-12-2012.png) : Magnitude proportion quiver plot on Feb 12th 2012
-  - [Feb-06-2012.png](Images1/Visualization%201/Feb-06-2012.png) : Same Size quiver plot on Feb 6th 2012
-  - [Feb-12-2012.png](Images1/Visualization%201/Feb-12-2012.png) : Same Size quiver plot on Feb 12th 2012
-  - [animated_GMM.gif](Images/Visualization1/animated_GMM.gif) : Animation of the magnitude proportion quiver plot from 6th to 12th Feb 2012.
-  - [animated_GMM.gif](Images1/Visualization%201/animated_GMM.gif) : Animation of the same quiver plot from 6th to 12th Feb 2012.
+  - [Feb-06-2012.png](Quiver%20Plot/Images/Visualization1/Feb-06-2012.png) : Magnitude proportion quiver plot on Feb 6th 2012
+  - [Feb-12-2012.png](Quiver%20Plot/Images/Visualization1/Feb-12-2012.png) : Magnitude proportion quiver plot on Feb 12th 2012
+  - [Feb-06-2012.png](Quiver%20Plot/Images1/Visualization%201/Feb-06-2012.png) : Same Size quiver plot on Feb 6th 2012
+  - [Feb-12-2012.png](Quiver%20Plot/Images1/Visualization%201/Feb-12-2012.png) : Same Size quiver plot on Feb 12th 2012
+  - [animated_GMM.gif](Quiver%20Plot/Images/Visualization1/animated_GMM.gif) : Animation of the magnitude proportion quiver plot from 6th to 12th Feb 2012.
+  - [animated_GMM.gif](Quiver%20Plot/Images1/Visualization%201/animated_GMM.gif) : Animation of the same quiver plot from 6th to 12th Feb 2012.
 
 
 ## How to Run the IPython Notebooks
